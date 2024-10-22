@@ -20,4 +20,4 @@ Soy un apasionado de la programación y la tecnología. Me encanta trabajar en p
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📫 Cómo contactarme
-📫 [kevin.aguileramo2004@gmail.com]
+📫 kevin.aguileramo2004@gmail.com
