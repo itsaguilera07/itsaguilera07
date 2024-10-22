@@ -17,7 +17,7 @@ Soy un apasionado de la programación y la tecnología. Me encanta trabajar en p
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 Actualmente estoy aprendiendo
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📫 Cómo contactarme
-- 📧 [kevin.aguileramo2004@gmail.com]
+📫 [kevin.aguileramo2004@gmail.com]
